@@ -1,2 +1,2 @@
-# Obstacle-Avoidance-PX4-RRT
+# Obstacle Avoidance using RRT Path Planning Algorithm
 RRT Based Obstacle Avoidance using pixhawk flight controller
